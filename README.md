@@ -18,6 +18,9 @@ For more information about Global Game Jam click [here](https://globalgamejam.or
 ### Below is a screenshot of the Alpha version of the game so that you could get a general idea of how it looks. 
 ![Alpha Version of the Game](https://screenshotscdn.firefoxusercontent.com/images/a7f8dd2a-bd19-4d3f-8216-5f3cb6312b76.png)
 
+### Interdimensional Transmission Disrupted the Space Time Continuum 
+![Gif of shift](https://i.gyazo.com/a02ad1081831dec257482a37014fab2e.gif)
+
 # The Team
 ## This game is being developed by a team of developers currently attending the University of Miami's Web Development Bootcamp
 
